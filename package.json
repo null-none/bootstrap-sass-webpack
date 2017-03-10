@@ -15,15 +15,16 @@
     "url": "https://github.com/DylanLukes/bootstrap-sass-webpack/issues"
   },
   "dependencies": {
-    "css-loader": "~0.7.0",
-    "less-loader": "~0.7.5",
-    "style-loader": "~0.6.4"
+    "css-loader": "^0.27.0",
+    "less-loader": "^3.0.0",
+    "style-loader": "^0.13.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/DylanLukes/bootstrap-sass-webpack.git"
   },
-  "peerDependencies": {
-    "bootstrap-sass": "~3.2.0"
+  "devDependencies": {
+    "less": "^2.7.2",
+    "bootstrap-sass": "^3.3.7"
   }
 }
