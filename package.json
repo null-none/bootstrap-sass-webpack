@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-sass-webpack",
-  "description": "bootstrap-sass (v3.2) package for webpack",
+  "name": "bootstrap-scss-webpack",
+  "description": "bootstrap-sass (v3.7) package for webpack",
   "main": "index.js",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "loader": "index.loader.js",
   "keywords": [
     "bootstrap",
@@ -12,7 +12,7 @@
     "name": "Dylan Lukes <lukes.dylan@gmail.com>"
   },
   "bugs": {
-    "url": "https://github.com/DylanLukes/bootstrap-sass-webpack/issues"
+    "url": "https://github.com/null-none/bootstrap-sass-webpack/issues"
   },
   "dependencies": {
     "css-loader": "^0.27.0",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DylanLukes/bootstrap-sass-webpack.git"
+    "url": "https://github.com/null-none/bootstrap-sass-webpack.git"
   },
   "devDependencies": {
     "less": "^2.7.2",
